@@ -9,5 +9,8 @@
         <module name="30-days-of-leetcoding" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="30-days-of-leetcoding" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

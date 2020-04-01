@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e65869c-184b-4d68-a4f0-fbbb187812a9" name="Default Changelist" comment="" />
+    <list default="true" id="4880dfbb-7b96-441e-8e39-b24bcbf1fe51" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/30-days-of-leetcoding.iml" beforeDir="false" afterPath="$PROJECT_DIR$/30-days-of-leetcoding.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/redquark/leetcode/challenge/Challenge01_SingleNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/redquark/leetcode/challenge/Challenge01_SingleNumber.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,9 +17,12 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -21,7 +31,10 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1ZwVDPJ2ztmjkn67Efur7EbMmOy" />
+  <component name="ProjectId" id="1ZwdSAul7z5J9xPCTwBWP6zfRZM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,11 +42,20 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.redquark.leetcode.challenge" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration name="Challenge01_SingleNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.redquark.leetcode.challenge.Challenge01_SingleNumber" />
+    <configuration name="Challenge01_SingleNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="30-days-of-leetcoding" />
       <extension name="coverage">
         <pattern>
@@ -41,13 +63,16 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="org.redquark.leetcode.challenge" />
+      <option name="MAIN_CLASS_NAME" value="org.redquark.leetcode.challenge.Challenge01_SingleNumberTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Challenge01_SingleNumber" />
+        <item itemvalue="JUnit.Challenge01_SingleNumberTest" />
       </list>
     </recent_temporary>
   </component>
@@ -56,57 +81,18 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3e65869c-184b-4d68-a4f0-fbbb187812a9" name="Default Changelist" comment="" />
-      <created>1585750022664</created>
+      <changelist id="4880dfbb-7b96-441e-8e39-b24bcbf1fe51" name="Default Changelist" comment="" />
+      <created>1585754087342</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1585750022664</updated>
+      <updated>1585754087342</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1239" height="167" key="GridCell.Tab.0.bottom" timestamp="1585752539911">
+    <state x="380" y="67" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1585754376252">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1239" height="167" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1585752539911" />
-    <state width="1239" height="167" key="GridCell.Tab.0.center" timestamp="1585752539910">
-      <screen x="0" y="0" width="1280" height="689" />
-    </state>
-    <state width="1239" height="167" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1585752539910" />
-    <state width="1239" height="167" key="GridCell.Tab.0.left" timestamp="1585752539910">
-      <screen x="0" y="0" width="1280" height="689" />
-    </state>
-    <state width="1239" height="167" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1585752539910" />
-    <state width="1239" height="167" key="GridCell.Tab.0.right" timestamp="1585752539910">
-      <screen x="0" y="0" width="1280" height="689" />
-    </state>
-    <state width="1239" height="167" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1585752539910" />
-    <state width="1239" height="208" key="GridCell.Tab.1.bottom" timestamp="1585752407586">
-      <screen x="0" y="0" width="1280" height="689" />
-    </state>
-    <state width="1239" height="208" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1585752407586" />
-    <state width="1239" height="208" key="GridCell.Tab.1.center" timestamp="1585752407586">
-      <screen x="0" y="0" width="1280" height="689" />
-    </state>
-    <state width="1239" height="208" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1585752407586" />
-    <state width="1239" height="208" key="GridCell.Tab.1.left" timestamp="1585752407586">
-      <screen x="0" y="0" width="1280" height="689" />
-    </state>
-    <state width="1239" height="208" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1585752407586" />
-    <state width="1239" height="208" key="GridCell.Tab.1.right" timestamp="1585752407586">
-      <screen x="0" y="0" width="1280" height="689" />
-    </state>
-    <state width="1239" height="208" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1585752407586" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/redquark/leetcode/challenge/Challenge01_SingleNumber.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="380" y="67" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.689@0.0.1280.689" timestamp="1585754376252" />
   </component>
 </project>
