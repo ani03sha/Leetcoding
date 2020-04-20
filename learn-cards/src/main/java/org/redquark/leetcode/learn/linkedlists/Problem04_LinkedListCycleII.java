@@ -1,13 +1,17 @@
 package org.redquark.leetcode.learn.linkedlists;
 
-
-public class Problem03_LinkedListCycleI {
+public class Problem04_LinkedListCycleII {
 
     /**
-     * @param head head of the linked list
-     * @return true, if there is a cycle in the node
+     * @param head head of the liked list
+     * @return - Node where cycle is present
      */
-    public boolean hasCycle(Node head) {
+    public Node detectCycle(Node head) {
+        // Base condition
+        if (head == null || head.next == null) {
+            // No cycle
+            return null;
+        }
         // Fast pointer
         Node fast = head;
         // Slow pointer
@@ -20,10 +24,25 @@ public class Problem03_LinkedListCycleI {
             slow = slow.next;
             // If after some cycles, slow is equal to the fast then it means there is a cycle in the list
             if (fast == slow) {
-                return true;
+                break;
             }
         }
-        return false;
+        // At the end of the loop check if slow and fast are equal
+        if (slow == fast) {
+            // Move slow again to the head and fast will be at its position
+            slow = head;
+            // Now loop until slow does not become equal to fast
+            while (slow != fast) {
+                // Move both slow and fast one step ahead
+                slow = slow.next;
+                fast = fast.next;
+            }
+            // Slow will be the first node in the cycle
+            return slow;
+        } else {
+            // If slow and fast and not equal then there is no cycle, hence return null
+            return null;
+        }
     }
 
     /**
