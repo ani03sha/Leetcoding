@@ -4,9 +4,9 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-class Problem26_LongestCommonSubsequenceTest {
+class Challenge26_LongestCommonSubsequenceTest {
 
-    private final Problem26_LongestCommonSubsequence testObject = new Problem26_LongestCommonSubsequence();
+    private final Challenge26_LongestCommonSubsequence testObject = new Challenge26_LongestCommonSubsequence();
 
     @Test
     void longestCommonSubsequence() {

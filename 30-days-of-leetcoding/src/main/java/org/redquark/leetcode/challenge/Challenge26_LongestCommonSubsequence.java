@@ -1,6 +1,6 @@
 package org.redquark.leetcode.challenge;
 
-public class Problem26_LongestCommonSubsequence {
+public class Challenge26_LongestCommonSubsequence {
 
     public int longestCommonSubsequence(String text1, String text2) {
         // Lengths of the input strings
