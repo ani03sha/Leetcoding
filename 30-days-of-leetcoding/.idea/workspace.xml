@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4880dfbb-7b96-441e-8e39-b24bcbf1fe51" name="Default Changelist" comment="Added challenge 02 - f">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_6_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_6_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_1.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/30-days-of-leetcoding.iml" beforeDir="false" afterPath="$PROJECT_DIR$/30-days-of-leetcoding.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +37,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
@@ -58,8 +52,8 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Challenge20_ConstructBSTFromPreorderTest.bstFromPreorder">
-    <configuration name="Challenge16_ValidParenthesisStringTest.checkValidString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Challenge30_ValidSequenceStringTest.isValidSequence">
+    <configuration name="Challenge26_LongestCommonSubsequenceTest.longestCommonSubsequence" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="30-days-of-leetcoding" />
       <extension name="coverage">
         <pattern>
@@ -68,14 +62,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.redquark.leetcode.challenge" />
-      <option name="MAIN_CLASS_NAME" value="org.redquark.leetcode.challenge.Challenge16_ValidParenthesisStringTest" />
-      <option name="METHOD_NAME" value="checkValidString" />
+      <option name="MAIN_CLASS_NAME" value="org.redquark.leetcode.challenge.Challenge26_LongestCommonSubsequenceTest" />
+      <option name="METHOD_NAME" value="longestCommonSubsequence" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Challenge17_NumberOfIslandsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Challenge27_MaximalSquareTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="30-days-of-leetcoding" />
       <extension name="coverage">
         <pattern>
@@ -84,13 +78,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.redquark.leetcode.challenge" />
-      <option name="MAIN_CLASS_NAME" value="org.redquark.leetcode.challenge.Challenge17_NumberOfIslandsTest" />
+      <option name="MAIN_CLASS_NAME" value="org.redquark.leetcode.challenge.Challenge27_MaximalSquareTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Challenge18_MinimumPathSumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Challenge28_FirstUniqueNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="30-days-of-leetcoding" />
       <extension name="coverage">
         <pattern>
@@ -99,13 +93,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.redquark.leetcode.challenge" />
-      <option name="MAIN_CLASS_NAME" value="org.redquark.leetcode.challenge.Challenge18_MinimumPathSumTest" />
+      <option name="MAIN_CLASS_NAME" value="org.redquark.leetcode.challenge.Challenge28_FirstUniqueNumberTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Challenge19_SearchInRotatedSortedArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Challenge29_BinaryTreeMaximumPathSumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="30-days-of-leetcoding" />
       <extension name="coverage">
         <pattern>
@@ -114,13 +108,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.redquark.leetcode.challenge" />
-      <option name="MAIN_CLASS_NAME" value="org.redquark.leetcode.challenge.Challenge19_SearchInRotatedSortedArrayTest" />
+      <option name="MAIN_CLASS_NAME" value="org.redquark.leetcode.challenge.Challenge29_BinaryTreeMaximumPathSumTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Challenge20_ConstructBSTFromPreorderTest.bstFromPreorder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Challenge30_ValidSequenceStringTest.isValidSequence" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="30-days-of-leetcoding" />
       <extension name="coverage">
         <pattern>
@@ -129,8 +123,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.redquark.leetcode.challenge" />
-      <option name="MAIN_CLASS_NAME" value="org.redquark.leetcode.challenge.Challenge20_ConstructBSTFromPreorderTest" />
-      <option name="METHOD_NAME" value="bstFromPreorder" />
+      <option name="MAIN_CLASS_NAME" value="org.redquark.leetcode.challenge.Challenge30_ValidSequenceStringTest" />
+      <option name="METHOD_NAME" value="isValidSequence" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -138,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Challenge20_ConstructBSTFromPreorderTest.bstFromPreorder" />
-        <item itemvalue="JUnit.Challenge19_SearchInRotatedSortedArrayTest" />
-        <item itemvalue="JUnit.Challenge18_MinimumPathSumTest" />
-        <item itemvalue="JUnit.Challenge17_NumberOfIslandsTest" />
-        <item itemvalue="JUnit.Challenge16_ValidParenthesisStringTest.checkValidString" />
+        <item itemvalue="JUnit.Challenge30_ValidSequenceStringTest.isValidSequence" />
+        <item itemvalue="JUnit.Challenge29_BinaryTreeMaximumPathSumTest" />
+        <item itemvalue="JUnit.Challenge28_FirstUniqueNumberTest" />
+        <item itemvalue="JUnit.Challenge27_MaximalSquareTest" />
+        <item itemvalue="JUnit.Challenge26_LongestCommonSubsequenceTest.longestCommonSubsequence" />
       </list>
     </recent_temporary>
   </component>
@@ -283,14 +277,88 @@
       <option name="project" value="LOCAL" />
       <updated>1587385721844</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Added challenge 21 - Leftmost column with atleast a one">
+      <created>1587476001151</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1587476001151</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Added challenge 22 - Count subarray with sum equals k">
+      <created>1587571337267</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1587571337267</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Added challenge 23 - Bitwise AND of number range">
+      <created>1587648883522</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1587648883522</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Added challenge 24 - LRU Cache">
+      <created>1587744199856</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1587744199856</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Added challenge 25 - Jump Game">
+      <created>1587819534091</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1587819534095</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Added challenge 26 - Longest Common Subsequence">
+      <created>1587893050596</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1587893050596</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Added challenge 26 - Longest Common Subsequence">
+      <created>1587893217247</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1587893217247</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Added challenge 27 - Maximal Square">
+      <created>1587997315246</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1587997315246</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Added challenge 28 - First Unique Number">
+      <created>1588085190215</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1588085190215</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Added challenge 29 - Maximum path sum in binary tree">
+      <created>1588250172777</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1588250172777</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Added challenge 30 - Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree">
+      <created>1588254338060</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1588254338060</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="Added challenge 02 - find the happy number" />
-    <MESSAGE value="Added challenge 04 - Move zeros" />
-    <MESSAGE value="Added challenge 05 - Stock max profit" />
     <MESSAGE value="Added challenge 06 - Group Anagrams" />
     <MESSAGE value="Added challenge 07 - Counting elements" />
     <MESSAGE value="Added challenge 08 - Find the middle of the linked list" />
@@ -306,24 +374,46 @@
     <MESSAGE value="Added challenge 18 - Minimum Path Sum" />
     <MESSAGE value="Added challenge 19 - Search in Rotated Sorted Array" />
     <MESSAGE value="Added challenge 20 - Construct BST from Preorder" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added challenge 20 - Construct BST from Preorder" />
+    <MESSAGE value="Added challenge 21 - Leftmost column with atleast a one" />
+    <MESSAGE value="Added challenge 22 - Count subarray with sum equals k" />
+    <MESSAGE value="Added challenge 23 - Bitwise AND of number range" />
+    <MESSAGE value="Added challenge 24 - LRU Cache" />
+    <MESSAGE value="Added challenge 25 - Jump Game" />
+    <MESSAGE value="Added challenge 26 - Longest Common Subsequence" />
+    <MESSAGE value="Added challenge 27 - Maximal Square" />
+    <MESSAGE value="Added challenge 28 - First Unique Number" />
+    <MESSAGE value="Added challenge 29 - Maximum path sum in binary tree" />
+    <MESSAGE value="Added challenge 30 - Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added challenge 30 - Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="371" y="100" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1588250326833">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="371" y="100" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1280.689@0.0.1280.689" timestamp="1588250326833" />
     <state x="93" y="93" width="1095" height="504" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1586434421107">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="93" y="93" width="1095" height="504" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1280.689@0.0.1280.689" timestamp="1586434421107" />
+    <state x="446" y="52" key="#com.intellij.ide.util.MemberChooser" timestamp="1587474479490">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="446" y="52" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689@0.0.1280.689" timestamp="1587474479490" />
     <state x="321" y="85" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1587045575237">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="321" y="85" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.689@0.0.1280.689" timestamp="1587045575237" />
-    <state x="174" y="0" key="CommitChangelistDialog2" timestamp="1587385719109">
+    <state x="247" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1587893134200">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="174" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1587385719109" />
+    <state x="247" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.689@0.0.1280.689" timestamp="1587893134200" />
+    <state x="154" y="0" key="CommitChangelistDialog2" timestamp="1588254336468">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="154" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1588254336468" />
     <state width="429" height="466" key="DebuggerActiveHint" timestamp="1586865401905">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
@@ -332,22 +422,22 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="421" y="103" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1587141824319" />
-    <state width="1239" height="208" key="GridCell.Tab.0.bottom" timestamp="1587386624706">
+    <state width="1239" height="167" key="GridCell.Tab.0.bottom" timestamp="1588255082355">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1239" height="208" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1587386624706" />
-    <state width="1239" height="208" key="GridCell.Tab.0.center" timestamp="1587386624706">
+    <state width="1239" height="167" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1588255082355" />
+    <state width="1239" height="167" key="GridCell.Tab.0.center" timestamp="1588255082350">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1239" height="208" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1587386624706" />
-    <state width="1239" height="208" key="GridCell.Tab.0.left" timestamp="1587386624706">
+    <state width="1239" height="167" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1588255082350" />
+    <state width="1239" height="167" key="GridCell.Tab.0.left" timestamp="1588255082350">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1239" height="208" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1587386624706" />
-    <state width="1239" height="208" key="GridCell.Tab.0.right" timestamp="1587386624706">
+    <state width="1239" height="167" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1588255082350" />
+    <state width="1239" height="167" key="GridCell.Tab.0.right" timestamp="1588255082354">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1239" height="208" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1587386624706" />
+    <state width="1239" height="167" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1588255082354" />
     <state width="1239" height="208" key="GridCell.Tab.1.bottom" timestamp="1587386624713">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
@@ -368,22 +458,30 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="174" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1587133222166" />
-    <state x="233" y="81" key="Vcs.Push.Dialog.v2" timestamp="1587385724884">
+    <state x="233" y="81" key="Vcs.Push.Dialog.v2" timestamp="1588254341166">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="233" y="81" key="Vcs.Push.Dialog.v2/0.0.1280.689@0.0.1280.689" timestamp="1587385724884" />
-    <state x="380" y="67" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1587384929305">
+    <state x="233" y="81" key="Vcs.Push.Dialog.v2/0.0.1280.689@0.0.1280.689" timestamp="1588254341166" />
+    <state x="380" y="67" width="530" height="505" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1588252877773">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="380" y="67" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.689@0.0.1280.689" timestamp="1587384929305" />
+    <state x="380" y="67" width="530" height="505" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.689@0.0.1280.689" timestamp="1588252877773" />
     <state x="0" y="12" key="new project wizard" timestamp="1587141871425">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="0" y="12" key="new project wizard/0.0.1280.689@0.0.1280.689" timestamp="1587141871425" />
-    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup" timestamp="1587302075706">
+    <state x="341" y="103" key="refactoring.ChangeSignatureDialog" timestamp="1588254031280">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup/0.0.1280.689@0.0.1280.689" timestamp="1587302075706" />
+    <state x="341" y="103" key="refactoring.ChangeSignatureDialog/0.0.1280.689@0.0.1280.689" timestamp="1588254031280" />
+    <state x="297" y="153" key="run.anything.popup" timestamp="1587735554598">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="297" y="153" key="run.anything.popup/0.0.1280.689@0.0.1280.689" timestamp="1587735554596" />
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup" timestamp="1587993341104">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup/0.0.1280.689@0.0.1280.689" timestamp="1587993341104" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
