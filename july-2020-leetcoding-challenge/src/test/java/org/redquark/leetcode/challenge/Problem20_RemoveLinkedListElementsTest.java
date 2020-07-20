@@ -19,6 +19,6 @@ class Problem20_RemoveLinkedListElementsTest {
         head.next.next.next.next.next = new Node(5);
         head.next.next.next.next.next.next = new Node(6);
         int val = 6;
-        assertEquals(4, testObject.removeElements(head, 6).next.next.next.data);
+        assertEquals(4, testObject.removeElements(head, val).next.next.next.data);
     }
 }
