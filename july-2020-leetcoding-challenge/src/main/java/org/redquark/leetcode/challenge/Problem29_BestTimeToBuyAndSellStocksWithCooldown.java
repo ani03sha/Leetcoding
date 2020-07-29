@@ -12,6 +12,7 @@ package org.redquark.leetcode.challenge;
  * you buy again).
  * <p>
  * After you sell your stock, you cannot buy stock on next day. (ie, cooldown 1 day)
+ *
  */
 public class Problem29_BestTimeToBuyAndSellStocksWithCooldown {
 
