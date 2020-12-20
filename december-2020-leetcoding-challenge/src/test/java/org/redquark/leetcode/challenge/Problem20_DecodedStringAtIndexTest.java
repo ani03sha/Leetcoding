@@ -13,7 +13,7 @@ class Problem20_DecodedStringAtIndexTest {
     void testDecodeAtIndex() {
         String S = "leet2code3";
         int K = 10;
-        //assertEquals("o", testObject.decodeAtIndex(S, K));
+        assertEquals("o", testObject.decodeAtIndex(S, K));
 
         S = "ha22";
         K = 5;
