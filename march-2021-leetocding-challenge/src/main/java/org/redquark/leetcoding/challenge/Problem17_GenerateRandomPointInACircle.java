@@ -1,5 +1,7 @@
 package org.redquark.leetcoding.challenge;
 
+import java.util.Random;
+
 /**
  * @author Anirudh Sharma
  * <p>
@@ -34,6 +36,35 @@ public class Problem17_GenerateRandomPointInACircle {
             double x = x_center + length * Math.cos(degree);
             double y = y_center + length * Math.sin(degree);
             return new double[]{x, y};
+        }
+    }
+
+    static class RandomPoint2 {
+
+        private final double radius;
+        private final double x_center;
+        private final double y_center;
+        private final Random random;
+
+        RandomPoint2(double radius, double x_center, double y_center) {
+            this.radius = radius;
+            this.x_center = x_center;
+            this.y_center = y_center;
+            this.random = new Random();
+        }
+
+        public double[] randPoint() {
+            double x = randomCoordinate(x_center, radius);
+            double y = randomCoordinate(y_center, radius);
+            while ((x - x_center) * (x - x_center) + (y - y_center) * (y - y_center) >= radius * radius) {
+                x = randomCoordinate(x_center, radius);
+                y = randomCoordinate(y_center, radius);
+            }
+            return new double[]{x, y};
+        }
+
+        private double randomCoordinate(double p, double r) {
+            return p - r + random.nextDouble() * 2 * r;
         }
     }
 }
