@@ -18,6 +18,7 @@ import java.util.List;
  * <p>
  * 2 <= s.length <= 1000
  * s.length is even.
+ *
  * s consists of uppercase and lowercase letters.
  */
 public class Problem07_DetermineIfStringHalvesAreAlike {
