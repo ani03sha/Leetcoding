@@ -17,7 +17,7 @@ class Problem08_SuperPalindromesTest {
 
         left = "1";
         right = "2";
-        //assertEquals(1, testObject.superPalindromesInRange(left, right));
+        assertEquals(1, testObject.superPalindromesInRange(left, right));
 
         left = "1";
         right = "1000000000000000000";
