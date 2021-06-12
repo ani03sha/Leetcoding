@@ -46,7 +46,6 @@ public class Problem12_MinimumNumberOfRefuelingStops {
                 }
             }
         }
-        int minimumRefuelingStops = 0;
         for (int i = 0; i <= n; i++) {
             if (lookup[i] >= target) {
                 return i;
