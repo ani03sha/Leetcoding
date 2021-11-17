@@ -4,9 +4,9 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-class Problem17_uniquePathsTest {
+class Problem17_UniquePathsTest {
 
-    private final Problem17_uniquePaths testObject = new Problem17_uniquePaths();
+    private final Problem17_UniquePaths testObject = new Problem17_UniquePaths();
 
     @Test
     void testUniquePaths() {

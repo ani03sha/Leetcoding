@@ -15,7 +15,7 @@ package org.redquark.leetcoding.challenge;
  * 1 <= m, n <= 100
  * It's guaranteed that the answer will be less than or equal to 2 * 109^.
  */
-public class Problem17_uniquePaths {
+public class Problem17_UniquePaths {
 
     public int uniquePaths(int m, int n) {
         // Special case
